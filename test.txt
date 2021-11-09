@@ -1,0 +1,9 @@
+# Domesticated:
+
+cat
+dog
+
+# Wild:
+
+hedgehog
+porcupine
