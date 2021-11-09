@@ -2,12 +2,9 @@
 The word must be from the dictionary
 
 >>> l = WordFinder('words.txt')
->>> l.random() in 'words.txt'
+>>> if l.random() in 'words.txt'
 True
 
-# >>> from words.txt import self.wList[ind]
-# >>> l.random() in path
-# True
 """
 import random
 
